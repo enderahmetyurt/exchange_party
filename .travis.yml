@@ -1,0 +1,8 @@
+language: ruby
+cache: bundler
+
+rvm:
+  - 3.0.3
+
+before_install: gem install bundler -v 2.2.32
+script: 'bundle exec rake test'
