@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    exchange_party (0.1.1)
+    exchange_party (0.1.2)
 
 GEM
   remote: https://rubygems.org/
@@ -50,6 +50,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  ruby
 
 DEPENDENCIES
   exchange_party!
