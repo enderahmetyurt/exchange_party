@@ -1,6 +1,6 @@
 # ExchangeParty
 
-Fetch Central Bank of Turkey exchange rates from http://www.tcmb.gov.tr/. Exchange Rates are announced at 15:30 in every day by the bank.
+Fetch Central Bank of Turkey exchange rates from http://www.tcmb.gov.tr/. Exchange Rates are announced at 15:30 in every week day by the bank.
 
 ## Installation
 
